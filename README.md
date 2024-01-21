@@ -1,8 +1,11 @@
-![Logo](/src/Components/images/logo.png)
+<div align="center">
+<img src='/src/Components/images/logo.png'/>
+</div>
 
 <h1 align="center">🛋️Furns-eCommerce</h1>
 
-###
+## Demo
+![App Screenshot](/github/Furns.png)
 
 ## Tech Stack
 
