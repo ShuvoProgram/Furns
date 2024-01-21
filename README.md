@@ -3,9 +3,10 @@
 </div>
 
 <h1 align="center">🛋️Furns-eCommerce</h1>
-
-## Demo
 ![App Screenshot](/github/Furns.png)
+
+## Overview
+Furns 🛋️ is an innovative furniture shop app designed to revolutionize your shopping experience. Developed using React Native, JavaScript, and CSS, Furns ensures a seamless and visually appealing interface. This project empowers users to effortlessly browse, select, and manage furniture purchases, enhancing the overall interior design journey. With a user-friendly design and robust functionality, Furns caters to modern consumers, providing a virtual showroom where users can explore and shop for a variety of furniture items. The app enables secure order management and delivery tracking, ensuring a convenient and reliable experience for users. Elevate your home decor journey with Furns, where style meets technology, bringing the furniture store to your fingertips. Explore, discover, and transform your living space with ease through the Furns app, redefining the way we shop for home furnishings.
 
 ## Tech Stack
 
