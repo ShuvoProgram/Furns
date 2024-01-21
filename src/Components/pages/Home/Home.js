@@ -83,6 +83,7 @@ const Home = () => {
   const [state, dispatchOne] = useReducer(reducer, initialValues);
 
   const { Products } = UseProductContext();
+  console.log(Products);
 
   UseDocumentTitle("Home");
 
