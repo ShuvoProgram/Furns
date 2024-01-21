@@ -31,8 +31,4 @@
 
 ## Authors
 
-<<<<<<< HEAD
 - [@Shuvo Khan](https://github.com/ShuvoProgram)
-=======
-- [@Shuvo Khan](https://github.com/ShuvoProgram)
->>>>>>> 99b4e1cdf833195f5c170d88a6bb058aefff0175
